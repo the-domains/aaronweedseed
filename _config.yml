@@ -1,0 +1,28 @@
+name: AaronWeedSeed
+favicon: null
+layout_spectrum: 0.912526560947299
+typography_spectrum: 0.7952092385385185
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6445416817441583
+  lightness: 0.11721044080331922
+  saturation: 0.3430690420791507
+  rhythmicContrast: 0.4645259380340576
+purpose: []
