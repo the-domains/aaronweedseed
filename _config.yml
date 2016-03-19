@@ -1,28 +1,40 @@
-name: AaronWeedSeed
-favicon: null
-layout_spectrum: 0.912526560947299
-typography_spectrum: 0.7952092385385185
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.912526560947299
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.3430690420791507
+  brandStrength: 0.6445416817441583
+  rhythmicContrast: 0.4645259380340576
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.6445416817441583
-  lightness: 0.11721044080331922
-  saturation: 0.3430690420791507
-  rhythmicContrast: 0.4645259380340576
+  lightness: 0.1172104408033192
 purpose: []
+favicon: null
+name: AaronWeedSeed
+typography_spectrum: 0.7952092385385185
